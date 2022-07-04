@@ -4,6 +4,8 @@
 
 To stake, use the AGFI [Dashboard](https://aggregated.finance/#/dashboard).
 
+{% embed url="https://aggregated.finance/#/dashboard" %}
+
 ### How it works
 
 Tax channel 4 on the AGFI token contract collects a percentage of every Uniswap AGFI buy and sell. Once the tax channel is executed (every 5th Uniswap sell), it will send the collected AGFI taxes directly to the staking contract.

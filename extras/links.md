@@ -1,14 +1,46 @@
 ---
-description: This document lists all contract addresses for the project.
+description: This document details all links to external services for the AGFI project.
+cover: >-
+  https://images.unsplash.com/photo-1442504028989-ab58b5f29a4a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb21tdW5pdHl8ZW58MHx8fHwxNjU2OTQyNTY3&ixlib=rb-1.2.1&q=80
+coverY: 0
 ---
 
 # Links
 
-| Name                | Address                                      | ENS                   |
-| ------------------- | -------------------------------------------- | --------------------- |
-| AGFI Deployer       | `0x3e822d55e79eA9F53C744BD9179d89dDec081556` | aggregatedfinance.eth |
-| AGFI Token          | `0x4D0F56d728c5232ab07fAA0BdcbA23670A35451f` | agfitoken.eth         |
-| Rewards             | `0xbb9b14265b1a4075da4b5ce32f420f3f158d838c` | agfirewards.eth       |
-| Staking             | `0x2ae9318f0B0eE4714a521F176C739751ed934fd1` | agfistaking.eth       |
-| Timelock Controller | `0x97eee9c5b9a4b089813365ccf0315c4e9aa6f516` | agfitimelock.eth      |
-| Governor            | `0xD243F9aAfCf32e60b2e9D0FF016cf7f1552d5952` | agfigovernor.eth      |
+{% hint style="warning" %}
+Scammers are everywhere in crypto, and will try to get you to go to fake websites to connect your wallet. Only ever use official links posted here, and check the URL before you connect your wallet to any website.
+{% endhint %}
+
+## Interface
+
+The AGFI website is deployed on IPFS. Should the main website address work, use the backup website addresses to connect to the decentralized hosting deployment.
+
+Main Website: [https://aggregated.finance/](https://aggregated.finance/)
+
+Backup Websites:
+
+* [https://aggregatedfinance.on.fleek.co/](https://aggregatedfinance.on.fleek.co/)
+* [https://aggregatedfinance.eth.link/](https://aggregatedfinance.eth.link/)
+* [https://aggregatedfinance.eth.limo/](https://aggregatedfinance.eth.limo/)
+
+## News
+
+Follow the blog ([https://blog.aggregated.finance/](https://blog.aggregated.finance/)) for all major updates for the project.
+
+Follow twitter ([https://twitter.com/AGFI\_Official](https://twitter.com/AGFI\_Official)) as well to share updates with everyone!
+
+## Community
+
+Currently there is only a Telegram community for the project: [https://t.me/aggregatedfinanceentry](https://t.me/aggregatedfinanceentry)
+
+## Development
+
+All source code for AGFI is on GitHub: [https://github.com/aggregatedfinance](https://github.com/aggregatedfinance/agfi-website)
+
+## Treasury
+
+ApeBoard provides an extensive overview of all the treasury wallets held by the project: [https://apeboard.finance/dashboard/APE-62Y1CX](https://apeboard.finance/dashboard/APE-62Y1CX).
+
+## Exchanges
+
+AGFI/wETH Uniswap V2: [https://v2.info.uniswap.org/token/0x4d0f56d728c5232ab07faa0bdcba23670a35451f](https://v2.info.uniswap.org/token/0x4d0f56d728c5232ab07faa0bdcba23670a35451f)

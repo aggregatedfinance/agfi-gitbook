@@ -1,5 +1,41 @@
 # Design
 
+## Introduction
+
+
+
+## Contract
+
+
+
+## Tokenomics
+
+AGFI V3 is a 1-for-1 relaunch of the original AGFI, launching with a token supply of 1 Trillion (1,000,000,000,000) tokens. 1-for-1 tokens were airdropped to all V1 and V2 token holders to replace AGFI V1. After the airdrop, 100 billion AGFI were sent to the timelock treasury and the remainder burned.
+
+
+
+## Governance
+
+
+
+### Proposal Management
+
+
+
+### Timelock
+
+
+
+## Custodianship
+
+
+
+
+
+
+
+####
+
 #### Abstract
 
 Cryptocurrency-based financial systems have evolved in a shockingly short span of time when compared to traditional financial systems. Structures that have existed to serve the public for hundreds of years have had to undergo rapid metamorphosis as they’re adapted to blockchain technology. Early financial services built on blockchain technology have developed from simple transactional systems into nuanced ecosystems replicating the society and the organizations we build within it. Decentralized Finance has yet to be so much as noticed by even a minority of the world’s population, and already it has birthed an entire generation of new paradigms - for tokenomic and governance structures alike. DeFi offers the Holder access to unique investment mechanisms and a multitude of other opportunities.

@@ -1,6 +1,6 @@
 # Proposals
 
-## Creating Proposals
+## Creating Proposals on GitHub
 
 Creating proposals for the Aggregated Finance DAO is a very simple process. It all starts with GitHub, where all the proposal discussion needs to happen:
 
@@ -30,16 +30,23 @@ Now all you need to do is fill out the details. Give it a title that makes sense
 
 ![](https://blog.aggregated.finance/content/images/2022/05/image-16.png)
 
-And that's all you have to do! The proposal will be open for anyone to review, comment, and discuss if it should move to a formal vote.
+The proposal will be open for anyone to review, comment, and discuss if it should move to a formal vote.
 
 > The Proposal Managers may edit or reject your proposal if it doesn't satisfy all the information needed to move it to a formal vote. Every vote needs a justification as to why it should happen, otherwise why do it at all?
 
-If we look at the first proposal, we can see replies and all the history of the discussion underneath it:
-
-![](https://blog.aggregated.finance/content/images/2022/05/image-17.png)
-
-If you want to voice your opinion, you can write your own response to the proposal at the bottom by adding a comment:
+If you want to voice your opinion, you can write your own response to any proposal at the bottom by adding a comment:
 
 ![](https://blog.aggregated.finance/content/images/2022/05/image-18.png)
 
-Your voice is essential to keeping the DAO alive, so set up your GitHub account today and be a part of this AGFI journey!
+## Opening Proposals on Tally
+
+
+
+## Queueing Proposals on Tally
+
+
+
+## Executing Proposals on Tally
+
+
+

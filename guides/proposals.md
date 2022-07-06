@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Proposals
 
 ## Creating Proposals on GitHub
@@ -50,11 +54,11 @@ On the Tally DAO interface, click **Create new proposal**.
 
 Connect your wallet and click **Continue**.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Fill out the description from the proposal information defined on the GitHub proposal and click **Continue**.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 Depending on what actions the proposal is meant to take, you must define at least one for the proposal.
 
@@ -68,7 +72,7 @@ To define a custom action, paste in a contract address to the **Target contract 
 
 Once you've set the address, select the **Contract method** you want the vote to call. Then any parameters that are required for that contract method will appear, and you will need to define the values that they're changing to. In the example below the action is to call setVotingPeriod with the newVotingPeriod set to 1000.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 {% hint style="warning" %}
 The DAO interface won't warn you if your proposal actions are technically possible or not. Some function calls require the DAO contract to hold certain rights, like ownership over another contract. If you aren't sure what you're doing, consult the DAO Proposal Managers for advice.
@@ -104,6 +108,6 @@ Proposals can only be executed if they've been queued in the timelock and not st
 
 To execute a proposal, open **Manage Proposals** on the Tally DAO interface and click **Execute**. You will be prompted by your wallet software to confirm the transaction, which will incur a network gas cost.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Once the proposal has been executed the proposal process is complete.

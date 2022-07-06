@@ -9,13 +9,23 @@ coverY: 0
 
 AGFI Decentralized Governance is currently managed on GitHub using a dedicated repository using Issues to track each proposal.
 
-### Interface
+## Guides
+
+{% content-ref url="../guides/proposals.md" %}
+[proposals.md](../guides/proposals.md)
+{% endcontent-ref %}
+
+{% content-ref url="../guides/voting.md" %}
+[voting.md](../guides/voting.md)
+{% endcontent-ref %}
+
+## Interface
 
 All AGFI V3 contracts are implementations of OpenZeppelin standards, and so Tally has been used for DAO management.
 
 {% embed url="https://www.tally.xyz/governance/eip155:1:0xD243F9aAfCf32e60b2e9D0FF016cf7f1552d5952" %}
 
-### Timelock
+## Timelock
 
 Derived from OpenZeppelin Contracts (last updated v4.6.0) (governance/TimelockController.sol)
 
@@ -23,7 +33,7 @@ Derived from OpenZeppelin Contracts (last updated v4.6.0) (governance/TimelockCo
 
 {% embed url="https://etherscan.io/address/0x97eee9c5b9a4b089813365ccf0315c4e9aa6f516#code" %}
 
-### Governor
+## Governor
 
 Derived from OpenZeppelin Contracts (last updated v4.6.0) (governance/Governor.sol)
 

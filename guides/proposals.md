@@ -88,7 +88,9 @@ You will get a preview of your proposal. Click **Submit on-chain** if you want t
 
 ![](<../.gitbook/assets/image (1).png>)
 
-Once a proposal is submitted on-chain a voting delay period starts. This period is by default set to 1 day, which gives people enough time to delegate their votes if required.
+Once a proposal is submitted on-chain a voting delay period starts. This period is by default set to 1 day, which gives people enough time to delegate their votes if required. While this delay period is in effect the proposal will show as "Pending" on Tally.
+
+![](<../.gitbook/assets/image (4).png>)
 
 ## Queueing Proposals on Tally
 
@@ -110,6 +112,6 @@ Proposals can only be executed if they've been queued in the timelock and not st
 
 To execute a proposal, open **Manage Proposals** on the Tally DAO interface and click **Execute**. You will be prompted by your wallet software to confirm the transaction, which will incur a network gas cost.
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 Once the proposal has been executed the proposal process is complete.

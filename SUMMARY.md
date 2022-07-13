@@ -12,7 +12,7 @@
 ## Guides
 
 * [Proposals](guides/proposals.md)
-* [Voting](guides/voting.md)
+* [Votes](guides/voting.md)
 * [Staking](guides/staking.md)
 * [Rewards](guides/rewards.md)
 

@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Voting
+# Votes
 
 ## Delegating Votes
 
@@ -35,3 +35,6 @@ Once the transaction is confirmed that's it! You are ready to vote in the DAO. Y
 ![](https://blog.aggregated.finance/content/images/2022/05/image-9.png)
 
 If you buy any more AGFI, or compound any earned rewards, make sure you Delegate your votes again so your new balance is tracked in the DAO.
+
+## Casting Votes
+

@@ -16,7 +16,7 @@ If you hold AGFI you can claim rewards. To claim rewards, go to the AGFI Dashboa
 
 Scroll down to where you can see "Your Claimable Rewards".
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 There are two options for claiming rewards:
 

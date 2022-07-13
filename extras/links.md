@@ -15,6 +15,10 @@ Scammers are everywhere in crypto, and will try to get you to go to fake website
 
 The AGFI website is deployed on IPFS. Should the main website address work, use the backup website addresses to connect to the decentralized hosting deployment.
 
+{% hint style="warning" %}
+Always check you are connected to the correct website. Only the URLs posted on this website can be trusted.
+{% endhint %}
+
 Main Website: [https://aggregated.finance/](https://aggregated.finance/)
 
 {% embed url="https://aggregated.finance/" %}

@@ -86,11 +86,11 @@ Once you've defined the actions for the proposal (you can define up to 10, so if
 
 You will get a preview of your proposal. Click **Submit on-chain** if you want to get it opened immediately, or click **Save Draft** if you want to save it for later.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Once a proposal is submitted on-chain a voting delay period starts. This period is by default set to 1 day, which gives people enough time to delegate their votes if required. While this delay period is in effect the proposal will show as "Pending" on Tally.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ## Queueing Proposals on Tally
 
@@ -100,7 +100,7 @@ Proposals can only be queued once the voting period has finished, and the vote r
 
 To queue a proposal, open **Manage Proposals** on the Tally DAO interface and click **Queue**. You will be prompted by your wallet software to confirm the transaction, which will incur a network gas cost.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 A queued proposal must wait for the timelock period to expire before it can be executed. If you hold the right to cancel proposals, you can also cancel the proposal at this point if required.
 
@@ -115,3 +115,27 @@ To execute a proposal, open **Manage Proposals** on the Tally DAO interface and 
 ![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 Once the proposal has been executed the proposal process is complete.
+
+## Opening Proposals on Snapshot
+
+Snapshot.org is used for any votes that do not require releasing funds from the AGFI Timelock treasury or modification of the Tally DAO voting parameters.
+
+{% embed url="https://snapshot.org/#/aggregatedfinance.eth" %}
+
+To create a new Snapshot vote, click **New proposal**.
+
+![](<../.gitbook/assets/image (3).png>)
+
+Set the **Title** of the proposal to the same as the proposal on GitHub. Set the **Description** as the same as the proposal on GitHub. Set the **Discussion** as a link to the GitHub proposal. Click **Continue**.
+
+![](<../.gitbook/assets/image (1).png>)
+
+Provide the choices for the vote. For the majority of votes just have the options as **For** and **Against**. The Voting period is automatically set by the DAO configuration, so you don't need to change it. Click **Publish**.
+
+![](<../.gitbook/assets/image (4).png>)
+
+Your wallet will prompt you to sign the new proposal. This doesn't cost any gas, it's just using your wallet to prove that it's you authorizing the proposal.
+
+![](../.gitbook/assets/image.png)
+
+The proposal is now queued for voting to start according to the configured voting period.

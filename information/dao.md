@@ -21,9 +21,13 @@ AGFI Decentralized Governance is currently managed on GitHub using a dedicated r
 
 ## Interface
 
-All AGFI V3 contracts are implementations of OpenZeppelin standards, and so Tally has been used for DAO management.
+All AGFI V3 contracts are implementations of OpenZeppelin standards, and so Tally has been used for DAO management:
 
 {% embed url="https://www.tally.xyz/governance/eip155:1:0xD243F9aAfCf32e60b2e9D0FF016cf7f1552d5952" %}
+
+Snapshot is also used for some DAO votes:
+
+{% embed url="https://snapshot.org/#/aggregatedfinance.eth" %}
 
 ## Timelock
 

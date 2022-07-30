@@ -16,7 +16,7 @@ To stake your AGFI, use the dashboard and scroll down to the Staking section. If
 
 You can choose to modify the amount you want to stake, but if you set an amount higher than your balance it will reset to your balance. If you set a negative number, it will reset to 0.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 Once you've chosen how many tokens to stake, click **APPROVE**. This will require a transaction on the network. Once that transaction is completed, you can then click **STAKE**.
 

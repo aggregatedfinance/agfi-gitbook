@@ -56,3 +56,9 @@ agfistaking.eth
 `0x97eee9c5b9a4b089813365ccf0315c4e9aa6f516`
 
 {% embed url="https://etherscan.io/address/0x97eee9c5b9a4b089813365ccf0315c4e9aa6f516" %}
+
+## UniswapV2Locker
+
+Ethereum contract: `0x76C927D479a41Fa3dDC9Cc9F1e87719562302360`
+
+Goerli Test contract: `0xdA72117B313bF18c86400Fd2430241Dd4Eb4ea30`

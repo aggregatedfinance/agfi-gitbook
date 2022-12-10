@@ -6,6 +6,10 @@ coverY: 0
 
 # Staking
 
+{% hint style="danger" %}
+The AGFI DAO voted to remove distribution of tokens to the staking service. The documentation is still provided for reference, but do not use the staking contract at this time as it will not provide any yield.
+{% endhint %}
+
 ## How to Stake
 
 {% content-ref url="../guides/staking.md" %}

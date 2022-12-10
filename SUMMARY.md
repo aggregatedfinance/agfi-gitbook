@@ -4,6 +4,7 @@
 
 ## Information
 
+* [Whitepaper](information/whitepaper.md)
 * [History](information/history.md)
 * [Design](information/design.md)
 * [DAO](information/dao.md)

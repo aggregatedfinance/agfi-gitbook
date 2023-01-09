@@ -11,7 +11,7 @@ coverY: 0
 Scammers are everywhere in crypto, and will try to get you to go to fake websites to connect your wallet. Only ever use official links posted here, and check the URL before you connect your wallet to any website.
 {% endhint %}
 
-## Website
+## Interface
 
 The AGFI website is deployed on IPFS. Should the main website address work, use the backup website addresses to connect to the decentralized hosting deployment.
 

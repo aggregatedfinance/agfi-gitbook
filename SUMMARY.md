@@ -8,6 +8,7 @@
 * [History](information/history.md)
 * [Design](information/design.md)
 * [DAO](information/dao.md)
+* [Delegated Traders](information/delegated-traders.md)
 * [Staking](information/staking.md)
 * [Liquidity Locker](information/liquidity-locker.md)
 

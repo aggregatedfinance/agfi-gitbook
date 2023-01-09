@@ -7,6 +7,14 @@ coverY: 0
 
 # DAO
 
+The AGFI project uses a decentralized autonomous organization (DAO) to manage its operations. This means that instead of having a traditional development team, the project is managed by a group of decentralized participants who come together to make decisions about the direction of the project.
+
+One of the key benefits of using a DAO is that it removes the need for a central authority to make decisions about the project. Instead, all decisions are made through a democratic process, with the community having the ability to vote on proposals and determine the direction of the project.
+
+In addition to managing the project, the AGFI DAO also controls the treasury assets of the project. This includes any funds raised through fundraising efforts, as well as any assets that are generated through the project's operations. All decisions related to the treasury assets are made through the same democratic process as other decisions, ensuring that the community has complete control over how these assets are used.
+
+Overall, the use of a DAO allows the AGFI project to be completely decentralized and community-controlled. This ensures that all decisions are made transparently and democratically, with the community having full control over the direction of the project and the management of its treasury assets.
+
 AGFI Decentralized Governance is currently managed on GitHub using a dedicated repository using Issues to track each proposal.
 
 ## Guides

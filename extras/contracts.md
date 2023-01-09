@@ -59,6 +59,6 @@ agfistaking.eth
 
 ## UniswapV2Locker
 
-Ethereum contract: `0xC98529BFDa33bF1020d13D595827dE98e4DE329f`
+Ethereum contract: `0x76C927D479a41Fa3dDC9Cc9F1e87719562302360`
 
 Goerli Test contract: `0xdA72117B313bF18c86400Fd2430241Dd4Eb4ea30`

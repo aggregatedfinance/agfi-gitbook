@@ -9,6 +9,7 @@
 * [Design](information/design.md)
 * [DAO](information/dao.md)
 * [Staking](information/staking.md)
+* [Liquidity Locker](information/liquidity-locker.md)
 
 ## Guides
 

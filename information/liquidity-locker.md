@@ -14,7 +14,7 @@ One of the key features of the AGFI liquidity locker is its support for Signata 
 
 Overall, the AGFI liquidity locker is a reliable and secure DeFi tool that allows users to lock their digital assets in a smart contract, ensuring that they are held safely and securely until they are ready to be unlocked. With its integration with Signata, users can also have confidence in the security of their assets, knowing that only verified users have access to them.
 
-AGFI's liquidity locker charges fees for each lock. The fees are as follows:
+AGFI's liquidity locker charges fees for each lock. Only new locks charge this fee. Transferring, extending, and adding to a lock does not incur additional fees. The fees are as follows:
 
 | Network  | DEX        | Fee     |
 | -------- | ---------- | ------- |
